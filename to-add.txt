@@ -1,8 +1,6 @@
 Add:
 ====
 
-- Cognition paper - status change?
-
 
 Consider
 ========
