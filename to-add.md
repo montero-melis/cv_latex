@@ -1,11 +1,11 @@
 Add:
 ====
 
+- Review Språk & stil
+
 
 Consider
 ========
-
-- Separate section for grant reviewing?
 
 From Gunnar's CV computer skills:
 
